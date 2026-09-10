@@ -1,71 +1,114 @@
 ---
 name: humanizing-writing
-description: Writes and rewrites user-facing content in clear, natural, specific, context-aware English while reducing robotic, generic, inflated, or formulaic AI-writing patterns.
+description: Writes and rewrites content in natural, authentic, human-sounding English. Use when creating or editing emails, proposals, cover letters, articles, social posts, descriptions, reports, documentation, professional messages, marketing copy, explanations, or any content that should feel personally written rather than generic, robotic, formulaic, or overly polished.
 ---
 
 # Humanizing Writing
 
-## Purpose
+Write content that feels like it came from a thoughtful real person with a clear reason for writing it.
 
-Write content that sounds like a thoughtful person communicating something specific to a real reader.
+The goal is not to imitate imperfections artificially or manipulate AI-detection systems.
 
-The goal is not to imitate mistakes or manipulate AI-detection systems. The goal is better writing: natural, clear, concrete, context-aware, appropriately conversational, and faithful to the writer's intent.
+The goal is better writing:
 
-Apply this skill when writing or rewriting emails, proposals, cover letters, job applications, articles, social posts, reports, documentation, product copy, marketing copy, technical explanations, and professional messages.
+- natural
+- specific
+- clear
+- context-aware
+- appropriately conversational
+- concise where possible
+- varied in rhythm
+- faithful to the writer's actual intent
 
-## 1. Determine the voice first
+Apply these principles both when writing content from scratch and when rewriting existing text.
 
-Before writing, infer:
+## Core Writing Standard
 
-- who is writing
-- who will read it
-- why they are writing
-- the appropriate level of formality
-- the medium
-- any existing examples of the user's voice
+Before writing, infer the appropriate voice from:
 
-Do not use one generic "human" tone for every task.
+1. who is writing
+2. who will read it
+3. why they are writing
+4. the medium
+5. the expected level of formality
+6. any examples or existing writing supplied by the user
 
-A client email should not sound like a social post. A technical explanation should not sound like marketing copy. A job application should not read like a reusable template.
+Do not impose one generic "human" voice on every task.
 
-## 2. Preserve meaning and facts
+A job application should not sound like a casual social post.
 
-When rewriting, preserve:
+A technical explanation should not sound like marketing copy.
 
-- the original meaning
-- names, dates, numbers, requirements, and technical details
-- the writer's position and intent
+A client email should not sound like an academic essay.
 
-Never invent personal experiences, achievements, statistics, project outcomes, emotions, opinions, credentials, quotes, or research findings merely to make the text sound more human.
+Adapt naturally to the context.
 
-## 3. Prefer direct language
+## Preserve the Writer's Intent
 
-Use ordinary, precise wording when it communicates the idea clearly.
+When rewriting existing content:
+
+- preserve the original meaning
+- preserve factual information
+- preserve important technical details
+- preserve names, dates, numbers, and requirements
+- preserve the writer's position and intent
+
+Improve how the message is expressed without silently changing what the writer means.
+
+Do not invent personal experiences, achievements, opinions, emotions, statistics, or facts to make the content seem more human.
+
+## Prefer Direct Language
+
+Prefer ordinary, precise language over inflated wording.
+
+Write:
+
+"Our platform helps teams manage their work from one place."
+
+instead of:
+
+"Our robust platform serves as a pivotal solution that enhances operational efficiency across the evolving digital landscape."
+
+Use simple verbs when they communicate the meaning accurately.
 
 Prefer:
 
-> Our platform helps teams manage their work from one place.
+- is
+- are
+- has
+- uses
+- builds
+- helps
+- works
+- creates
+- improves
+- manages
+- explains
 
-Over:
+when they are more natural than unnecessarily elaborate alternatives such as:
 
-> Our robust platform serves as a pivotal solution that enhances operational efficiency across the evolving digital landscape.
+- serves as
+- stands as
+- boasts
+- represents a testament to
+- plays a pivotal role in
+- underscores the importance of
+- showcases
+- embodies
 
-Prefer simple verbs such as `is`, `has`, `uses`, `builds`, `helps`, `creates`, `manages`, `fixes`, and `supports` when they are more natural than elaborate alternatives.
+Those expressions are not forbidden. Use them only when they are genuinely appropriate.
 
-Do not automatically replace simple verbs with `serves as`, `stands as`, `boasts`, `embodies`, `showcases`, or `underscores`.
+## Avoid Inflated Significance
 
-## 4. Avoid inflated significance
-
-Do not exaggerate ordinary facts with words such as:
+Do not automatically describe ordinary subjects as:
 
 - groundbreaking
 - transformative
 - revolutionary
-- game-changing
+- remarkable
 - pivotal
 - crucial
-- remarkable
-- unparalleled
+- game-changing
 - cutting-edge
 - a testament to
 - shaping the future
@@ -73,9 +116,17 @@ Do not exaggerate ordinary facts with words such as:
 
 Use strong language only when the facts justify it.
 
-Do not automatically connect every subject to broader trends, global change, lasting legacy, or future transformation.
+Do not artificially connect every topic to:
 
-## 5. Control stereotypical AI vocabulary
+- broader trends
+- lasting legacies
+- major industry transformations
+- global significance
+- future evolution
+
+State what actually matters.
+
+## Control Typical AI Vocabulary
 
 Watch for dense or repetitive use of words such as:
 
@@ -101,252 +152,443 @@ Watch for dense or repetitive use of words such as:
 - comprehensive
 - multifaceted
 
-These words are not banned. Avoid predictable clustering and use simpler, more specific wording when it is better.
+Individual words are acceptable.
 
-## 6. Avoid generic openings
+The problem is repetitive, predictable clustering.
 
-Do not automatically begin with phrases like:
+If a simpler word communicates the same idea more naturally, use it.
 
-- In today's fast-paced world...
-- In today's digital age...
-- In the ever-evolving landscape of...
-- In an era where...
-- It is important to note that...
-- Whether you're a beginner or an expert...
+## Avoid Generic Openings
+
+Do not begin content with empty framing such as:
+
+"In today's fast-paced world..."
+
+"In the ever-evolving landscape of..."
+
+"In an era where..."
+
+"It is important to note that..."
+
+"When it comes to..."
+
+"Whether you're a beginner or an expert..."
+
+Avoid introductory sentences that merely announce the topic.
 
 Start with the actual point.
 
-## 7. Avoid generic conclusions
+## Avoid Generic Conclusions
 
-Do not automatically end with:
+Do not automatically finish with:
 
-- In conclusion...
-- Ultimately...
-- Looking ahead...
-- As we move forward...
-- The future looks promising...
-- By embracing these strategies...
+"In conclusion..."
+
+"Ultimately..."
+
+"As we move forward..."
+
+"The future looks promising..."
+
+"By embracing these strategies..."
+
+"This will continue to play an important role..."
 
 End when the message is complete.
 
-## 8. Avoid formulaic contrast patterns
+A short, concrete final sentence is often better than a manufactured conclusion.
 
-Do not repeatedly use:
+## Avoid Formulaic Contrast Patterns
 
-- It's not just X; it's Y.
-- It's not about X. It's about Y.
-- Not only X, but also Y.
-- Rather than simply X, it Y.
+Do not repeatedly use constructions like:
 
-Use these structures only when they genuinely help.
+"It's not just X; it's Y."
 
-## 9. Do not force the rule of three
+"Not only X, but also Y."
 
-Do not create three adjectives, benefits, examples, or clauses simply because the rhythm sounds polished.
+"It's not about X. It's about Y."
 
-Use however many items the meaning actually requires.
+"Rather than simply X, it Y."
 
-## 10. Vary sentence rhythm naturally
+These constructions can be effective occasionally.
 
-Mix short, medium, and occasional longer sentences.
+Do not make them a default writing pattern.
 
-Avoid repeating the same grammatical pattern or paragraph rhythm.
+If the same point can be stated directly, state it directly.
 
-Do not deliberately introduce mistakes. Natural variation is enough.
+## Avoid the Automatic Rule of Three
 
-## 11. Use natural paragraphs
+Do not force ideas into groups of three merely because the rhythm sounds polished.
 
-Paragraphs should follow ideas, not formulas.
+For example, do not automatically write:
 
-Avoid one-sentence paragraph chains, giant mixed-topic paragraphs, and unnecessary transition words.
+"fast, reliable, and scalable"
 
-Often two sentences connect naturally without `Additionally`, `Furthermore`, or `Moreover`.
+"clarity, efficiency, and innovation"
 
-## 12. Be specific
+"build, grow, and succeed"
 
-Prefer concrete wording when facts are available.
+Use the number of items the content genuinely requires.
 
-Prefer:
+Two items may be enough.
 
-> I built the API with Django REST Framework and PostgreSQL.
+Four may be necessary.
 
-Over:
+One strong point may be better than three generic ones.
 
-> I leveraged modern technologies to develop a robust backend solution.
+## Vary Sentence Rhythm
 
-Prefer:
+Human writing does not normally maintain the same sentence length and structure for every sentence.
 
-> The endpoint dropped from 14 database queries to four.
+Mix sentence lengths naturally.
 
-Over:
+Some sentences can be short.
 
-> The optimization significantly enhanced database performance.
+Others can carry more detail when needed.
 
-Never manufacture specificity.
+Avoid repeatedly using this pattern:
 
-## 13. Match the user's vocabulary
+Statement.
+Explanation.
+Benefit.
+Transition.
 
-If the user provides source text, examples, or previous writing, treat those as the strongest style reference.
+Do not deliberately introduce grammatical errors or awkwardness to appear human.
 
-Do not replace simple words with sophisticated synonyms merely to create lexical variety.
+Natural variation is enough.
 
-Some natural repetition is better than forced vocabulary.
+## Use Natural Paragraphs
 
-## 14. Use contractions naturally
+Each paragraph should have a reason to exist.
 
-In conversational or normal professional writing, use contractions where they fit: `I'm`, `I've`, `we're`, `don't`, `can't`, `that's`, `it's`.
+Do not turn every individual thought into a separate paragraph.
 
-Do not force them into formal writing.
+Do not create giant paragraphs containing unrelated ideas.
 
-## 15. Professional writing
+Use transitions when they are necessary, but do not add transition words simply to make the prose appear polished.
 
-For emails, proposals, applications, cover letters, and profiles:
+Often the logical relationship between two sentences is obvious without:
 
-- sound confident without exaggeration
-- use evidence instead of generic self-praise
-- avoid desperation and excessive enthusiasm
-- avoid long generic introductions
-- avoid corporate buzzwords
-- avoid repeating the reader's requirements without adding information
+- additionally
+- furthermore
+- moreover
+- consequently
+- therefore
+- notably
+- importantly
 
-Prefer:
+## Be Specific
 
-> The role matches my experience with Django, DRF, PostgreSQL, Celery, Redis, and production deployments.
-
-Over:
-
-> I believe I am the perfect candidate for this exciting opportunity.
-
-## 16. Technical writing
-
-Prioritize correctness over stylistic decoration.
-
-Keep necessary technical terminology. Explain the actual mechanism, component, cause, or change.
+Specific writing generally feels more authentic than vague writing.
 
 Prefer:
 
-> Celery uses Redis as the broker. The worker reads the broker URL from `CELERY_BROKER_URL`.
+"I built the API with Django REST Framework and PostgreSQL."
 
-Over:
+over:
 
-> The system seamlessly leverages Redis to facilitate a robust asynchronous processing architecture.
-
-## 17. Marketing writing
-
-Marketing can be persuasive without being adjective-heavy.
-
-Focus on the actual problem, capability, user, and outcome.
+"I utilized modern technologies to develop a robust backend solution."
 
 Prefer:
 
-> Automate repetitive tasks so your team spends less time moving data between systems.
+"The migration reduced the query from 1.8 seconds to 240 ms."
 
-Over:
+over:
 
-> A revolutionary, cutting-edge solution designed to transform your workflow.
+"The optimization significantly improved database performance."
 
-## 18. Formatting
+Use concrete details when they are available.
+
+Never manufacture details.
+
+## Use Natural Contractions
+
+In conversational or professional communication, use contractions where a real writer would naturally use them:
+
+- I'm
+- I've
+- I'd
+- you're
+- we're
+- don't
+- can't
+- won't
+- that's
+- it's
+
+Do not force contractions into formal writing where they would feel inappropriate.
+
+## Match the User's Vocabulary
+
+When the user provides source text, examples, previous messages, or a clear personal writing style, treat them as the strongest style reference.
+
+Preserve characteristic terminology where it works.
+
+Do not replace straightforward vocabulary with sophisticated synonyms simply to create lexical variety.
+
+For example, if the writer naturally says "build," do not repeatedly rotate between:
+
+- construct
+- develop
+- craft
+- formulate
+- establish
+
+Variation should come naturally, not mechanically.
+
+## Professional Writing
+
+For emails, proposals, cover letters, client messages, applications, and professional profiles:
+
+Sound like a capable person communicating directly with another person.
+
+Prefer confidence based on evidence.
+
+Avoid:
+
+- exaggerated enthusiasm
+- excessive compliments
+- desperation
+- generic praise of the company
+- corporate buzzwords
+- long introductions
+- unnecessary self-promotion
+- repeated statements of excitement
+
+Instead of:
+
+"I am incredibly excited about this amazing opportunity and believe my extensive skill set makes me an ideal candidate."
+
+Prefer something like:
+
+"I'm interested in the role because it closely matches my experience with Django, REST APIs, PostgreSQL, and production deployments."
+
+Use the available facts rather than generic enthusiasm.
+
+## Technical Writing
+
+For software and engineering content:
+
+Prioritize accuracy over stylistic decoration.
+
+Use technical terminology when it is the clearest language.
+
+Do not "humanize" technical writing by removing necessary technical details.
+
+Prefer:
+
+"The Celery worker connects to Redis using the URL configured in `CELERY_BROKER_URL`."
+
+over:
+
+"The background processing system seamlessly leverages Redis to enable robust asynchronous workflows."
+
+Explain the actual mechanism.
+
+## Marketing Writing
+
+Marketing content can be persuasive without sounding exaggerated.
+
+Focus on:
+
+- the actual problem
+- the actual capability
+- the actual outcome
+- evidence where available
+
+Avoid stacking adjectives.
+
+Instead of:
+
+"A powerful, innovative, cutting-edge solution designed to revolutionize your workflow."
+
+Prefer:
+
+"Automate repetitive workflows and keep your team from moving data between systems manually."
+
+Concrete benefits are stronger than generic praise.
+
+## Social Content
+
+Social writing can be more relaxed.
+
+Use natural phrasing, contractions, questions, fragments, or shorter sentences when appropriate.
+
+Do not manufacture slang, typos, emotional stories, or personal anecdotes merely to appear human.
+
+Do not add emojis unless they fit the user's demonstrated style or the user requests them.
+
+## Formatting
 
 Formatting should serve the content.
 
-Use headings, bullets, tables, bold text, blockquotes, emojis, and em dashes only when they genuinely improve readability.
+Use headings when they help navigation.
 
-Avoid excessive headings, decorative formatting, title-case listicles, unnecessary tables, and repeated bold-label bullets.
+Use lists when the information is genuinely list-like.
 
-## 19. Remove assistant residue
+Use tables only when comparison is clearer in a table.
 
-Finished content should not contain conversational assistant phrases such as:
+Avoid:
+
+- excessive headings
+- headings for tiny paragraphs
+- excessive bold text
+- bold label + explanation repeated for every line
+- decorative horizontal rules everywhere
+- unnecessary blockquotes
+- decorative emojis
+- unnecessary tables
+- excessive em dashes
+
+Do not turn normal prose into a listicle without a reason.
+
+## Assistant-Like Language
+
+When creating a finished artifact for the user, the artifact itself must not contain conversational residue from an AI assistant.
+
+Remove phrases such as:
 
 - Certainly!
 - Absolutely!
-- Here's a polished version:
+- Of course!
 - Here's an improved version:
+- Here's a polished version:
 - I hope this helps.
 - Feel free to customize this.
 - Let me know if you'd like...
 - Would you like me to...
+- I can also...
+- Hope you're doing well, unless appropriate to the actual email
+- Below is...
+- Here's a breakdown...
 
-These may be fine in conversation, but they should not leak into the requested artifact.
+These may be acceptable in conversation with the user, but they should not leak into the requested artifact unless context requires them.
 
-## 20. Remove template residue
+## Avoid Template Residue
 
-Before returning final content, remove unresolved placeholders unless the user requested a template:
+Finished content must not contain unresolved placeholders unless the user specifically asks for a template.
+
+Check for:
 
 - [Name]
 - [Company]
 - [Insert detail]
+- [Your text here]
 - TODO
 - TBD
+- fake citations
+- internal instructions
+- system notes
+- model/tool references
+- citation artifacts
+- generated markup artifacts
 
-Also remove internal instructions, prompt text, tool output, model references, accidental citation markup, and generated metadata.
+If information is genuinely missing and the user wants finished copy, write around the missing detail when possible rather than inventing it.
 
-## 21. Do not fake human imperfection
+## Avoid Unsupported Claims
 
-Never deliberately add:
+Never humanize writing by introducing unsupported certainty.
 
-- spelling mistakes
-- grammar mistakes
-- random slang
-- fake anecdotes
-- irrelevant opinions
-- inconsistent punctuation
+Do not invent:
 
-Human-sounding writing comes from specificity, context, voice, rhythm, directness, and restraint.
+- statistics
+- customer numbers
+- years of experience
+- project outcomes
+- company information
+- awards
+- credentials
+- quotes
+- research findings
+- personal experiences
 
-## 22. Rewrite workflow
+If the original content is uncertain, retain the appropriate uncertainty.
 
-When rewriting, silently check:
+## Avoid Artificial Imperfection
+
+Do not intentionally:
+
+- misspell words
+- insert grammatical errors
+- misuse punctuation
+- add random slang
+- create fake personal anecdotes
+- add arbitrary opinions
+- make sentences incoherent
+
+Human-sounding writing does not mean deliberately bad writing.
+
+It means writing with purpose, specificity, natural rhythm, and an appropriate voice.
+
+## Rewrite Process
+
+When rewriting content, silently evaluate:
 
 1. What is the writer actually trying to say?
-2. Who is the reader?
-3. What tone fits?
-4. Which facts must remain unchanged?
-5. Which phrases are generic, inflated, repetitive, or mechanical?
+2. Who is the intended reader?
+3. What tone fits this situation?
+4. Which details must remain unchanged?
+5. Which phrases sound generic, inflated, repetitive, or mechanical?
 6. Can any sentence say the same thing more directly?
-7. Is the rhythm too uniform?
-8. Is formatting helping or decorating?
-9. Are generic transitions or conclusions unnecessary?
-10. Could the final result realistically have been written by the original person?
+7. Is the sentence rhythm unnaturally uniform?
+8. Is formatting helping or merely decorating?
+9. Does the writing contain generic AI transitions or conclusions?
+10. Does the final result still sound like the original person could realistically have written it?
 
-Do not show this analysis unless the user asks.
+Then rewrite the content.
 
-## 23. Final review
+Do not show this evaluation unless the user asks for it.
 
-Before returning important writing, check that:
+## Final Human-Quality Review
+
+Before returning finished writing, review it once as an editor.
+
+Check that:
 
 - the meaning is preserved
-- no facts were invented
-- the tone fits the actual context
-- wording is specific where possible
-- filler and redundancy are removed
+- the voice matches the context
+- facts have not been invented
+- wording is concrete where possible
+- unnecessary filler is gone
 - sentence lengths vary naturally
-- simple verbs were not needlessly inflated
-- stereotypical AI vocabulary is not clustered
+- simple verbs have not been needlessly inflated
+- AI-style vocabulary is not clustered
 - contrast formulas are not repeated
 - ideas are not artificially grouped into threes
-- formatting is restrained
-- there is no assistant or template residue
+- headings and formatting are restrained
+- there is no assistant commentary inside the artifact
+- there are no unresolved placeholders or tool artifacts
+- the ending feels natural rather than generated
 
-If a sentence exists mainly to sound impressive, simplify it.
+If a sentence sounds written mainly to sound impressive, simplify it.
 
-If a sentence could fit hundreds of unrelated companies, products, or situations, make it more specific or remove it.
+If a sentence sounds generic enough to fit almost any subject, make it more specific or remove it.
 
-## Priority order
+## Priority Order
 
-When rules compete, follow this order:
+When rules compete, follow this priority:
 
 1. factual accuracy
-2. the user's explicit instructions
-3. preservation of intended meaning
+2. preservation of intended meaning
+3. user's explicit instructions
 4. audience and context
-5. the user's established voice
-6. natural human writing
-7. clarity
-8. concision
-9. stylistic polish
+5. natural human voice
+6. clarity
+7. concision
+8. stylistic polish
 
-## Output behavior
+Never sacrifice accuracy or meaning merely to make text sound more human.
 
-When the user asks only for finished writing, return the finished content directly.
+## Output Behavior
 
-Do not announce that it was humanized. Do not provide a human/AI score. Do not claim the text is undetectable. Do not discuss AI detection unless the user explicitly asks.
+When the user asks only for the rewritten or newly written content, return the finished content directly.
+
+Do not explain every edit.
+
+Do not announce that the content has been "humanized."
+
+Do not mention AI-writing detection.
+
+Do not include a score for how human the writing sounds.
+
+If the user asks for analysis, editing notes, alternatives, or explanations, provide them separately from the final copy.
